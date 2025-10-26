@@ -16,9 +16,10 @@ Aquí están los ejercicios subidos hasta ahora:
 📄 `exchange.py` – Conversión de divisas u operaciones matemáticas relacionadas.  
 📄 `hello_world.py` – El clásico "Hello, World!" en Python.  
 📄 `lasagna.py` – Cálculo del tiempo de cocción de una lasaña.  
+📄 `darts.py` – Cálculo de puntuación en un juego de tiro a la diana.  
 
 ## 🏆 Progreso
-🔹 **Ejercicios completados:** 6  
+🔹 **Ejercicios completados:** 7  
 🔹 **Lenguaje:** Python  
 
 ## 🤝 Contribuciones
