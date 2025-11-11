@@ -26,12 +26,13 @@ Aquí están los ejercicios que he subido hasta ahora:
 - 📄 **`list_methods.py`** – Métodos comunes para trabajar con listas.  
 - 📄 **`lists.py`** – Manipulación de listas en Python.  
 - 📄 **`strings.py`** – Operaciones y manipulaciones de cadenas de texto.
+- 📄 **`tuples.py`** – Operaciones y manipulaciones de tuplas.
 
 ---
 
 ## 🏆 **Progreso**
 
-🔹 **Ejercicios completados:** 10  
+🔹 **Ejercicios completados:** 11 
 🔹 **Lenguaje:** Python  
 
 ---
