@@ -1,4 +1,4 @@
-# 🚀 **Exercism Solutions by Tarnowski Tobias**sadfsadf
+# 🚀 **Exercism Solutions by Tarnowski Tobias**
 
 ¡Hola! 👋 Bienvenido a mi repositorio de soluciones para los ejercicios de [Exercism](https://exercism.org/) 💡. Aquí encontrarás mis respuestas a los desafíos de programación en **Python**.
 
